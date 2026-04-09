@@ -12,14 +12,14 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "Kai",
+  "nickNameBot": "Evi",
   "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61576612175253",
+    "61572042054240",
     "61576968621804"
   ],
   "reactUnsend": {
